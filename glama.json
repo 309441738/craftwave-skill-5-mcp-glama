@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "邮轮舱房选择",
+  "description": "探索不同邮轮舱房类型及其价格区间，帮助用户根据预算选择最合适的舱房配置。非常适合计划家庭旅行或团体出行的用户。"
+}
